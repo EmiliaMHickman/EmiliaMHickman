@@ -1,5 +1,5 @@
-<h1 align="center">こんにちは👋, I'm Emilia</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h1 align="center">こんにちは👋🏽, I'm Emilia</h1>
+<h3 align="center">Undergrad student, programmer, UI/UX designer, artist, and professional sleeper. "( – ⌓ – )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emiliamhickman&label=Profile%20views&color=0e75b6&style=flat" alt="emiliamhickman" /> </p>
 
