@@ -1,8 +1,6 @@
 <h1 align="center">こんにちは👋🏽, I'm Emilia</h1>
-<h3 align="center">Undergrad student, programmer, UI/UX designer, artist, and professional sleeper. "( – ⌓ – )</h3>
 
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js, Unity, and Ruby**
 
 - 📫 How to reach me **thesleepyprogrammeremail@gmail.com**
 
