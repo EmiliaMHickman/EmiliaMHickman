@@ -1,6 +1,5 @@
 <h1 align="center">こんにちは👋🏽, I'm Emilia</h1>
-
-- 🌱 I’m currently learning **React.js, Unity, and Ruby**
+- 🌱 I’m currently learning **React.js, Unity, and Pyrhon**  
 
 - 📫 How to reach me **thesleepyprogrammeremail@gmail.com**
 
